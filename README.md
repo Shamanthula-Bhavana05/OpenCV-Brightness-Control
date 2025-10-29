@@ -84,6 +84,9 @@ cv2.destroyAllWindows()
    python brightness_control.py
    ```
 
+## Demo Video:
+[Video](https://youtu.be/uF-vbQYgE2c)
+
 ### 📎 Connect With Me
 
 💼 [LinkedIn](www.linkedin.com/in/shamanthula-bhavana-7343bb331)
